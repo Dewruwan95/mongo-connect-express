@@ -1,0 +1,13 @@
+
+node_modules
+src
+
+.env
+.gitignore
+
+package-lock.json
+
+tsconfig.json
+tsup.config.ts
+
+.DS_Store

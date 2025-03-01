@@ -1,0 +1,42 @@
+{
+  "name": "mongo-connect-express",
+  "version": "1.0.0",
+  "description": "MongoDB connector for Express applications using Mongoose",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    "import": "./dist/index.mjs",
+    "require": "./dist/index.js"
+  },
+  "scripts": {
+    "build": "tsup src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dewruwan95/mongo-connect-express.git"
+  },
+  "keywords": [
+    "mongodb",
+    "mongoose",
+    "express",
+    "connector",
+    "database"
+  ],
+  "author": "Idea Graphix",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dewruwan95/mongo-connect-express/issues"
+  },
+  "homepage": "https://github.com/Dewruwan95/mongo-connect-express#readme",
+  "devDependencies": {
+    "@types/mongoose": "^5.11.96",
+    "@types/node": "^22.13.8",
+    "tsup": "^8.4.0",
+    "typescript": "^5.8.2"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "mongoose": "^8.11.0"
+  }
+}
