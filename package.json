@@ -1,6 +1,6 @@
 {
   "name": "mongo-connect-express",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "MongoDB connector for Express applications using Mongoose",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
