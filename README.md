@@ -1,6 +1,6 @@
 # 🚀 mongo-connect-express
 
-[![npm version](https://img.shields.io/badge/npm-v1.0.0-blue.svg)](https://www.npmjs.com/package/mongo-connect-express)
+[![npm version](https://img.shields.io/npm/v/mongo-connect-express.svg)](https://www.npmjs.com/package/mongo-connect-express)
 [![npm downloads](https://img.shields.io/npm/dm/mongo-connect-express.svg)](https://www.npmjs.com/package/mongo-connect-express)
 [![TypeScript](https://img.shields.io/badge/TypeScript-4.5+-3178C6.svg)](https://www.typescriptlang.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
