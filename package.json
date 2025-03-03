@@ -30,7 +30,6 @@
   },
   "homepage": "https://github.com/Dewruwan95/mongo-connect-express#readme",
   "devDependencies": {
-    "@types/mongoose": "^5.11.96",
     "@types/node": "^22.13.8",
     "tsup": "^8.4.0",
     "typescript": "^5.8.2"
